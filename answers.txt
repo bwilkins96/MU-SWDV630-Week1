@@ -1,0 +1,18 @@
+SWDV 630, Benjamin Wilkins
+Responses to questions 3 - 5 from the week 1 assignment
+--------------------------------------------------------------------------------------------------
+
+3 - The Teams class does implement the __len__ method, and the classmates instance can 
+    utilize it.
+
+4 - Interfaces refer to the public methods of an object that users, such as developers, 
+    access to interact with an object. Examples of interfaces include getter and setter methods. 
+    Implementation refers to the inner workings of an object that are hidden from the user. 
+    Examples of implementation include private variables and methods, such as helper methods 
+    for the public interface methods. The inner code of a public method can also be considered 
+    implementation because it is abstracted away from the user. 
+
+5 – I would design an interface structure for a storage system that works with a variety of 
+    storage devices by using polymorphism. Specifically, I would have a consistent public 
+    interface with different underlying implementations that handle storing data in the 
+    different storage devices.
